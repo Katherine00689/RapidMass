@@ -7,4 +7,4 @@ Other high-throughput mass spectrometry such as ambient ionization mass spectrom
 The performance of RapidMass was validated using easily confused plant materials, with satisfactory results. 
 Importantly, RapidMass features a user-friendly, visual interface, making it accessible to users without programming expertise.
 If you have any queries, please do not hesitate to contact me at the following email address liuchunxiang@simm.ac.cn.
-Considering that users may not be familiar with the interface and operation of GitHub, you can also contact our email and we will send you the installation package and provide guidance.
+For details about the function introduction, performance evaluation and application cases of the software, please refer to the literature: https://doi.org/10.1021/acs.analchem.4c05062.
